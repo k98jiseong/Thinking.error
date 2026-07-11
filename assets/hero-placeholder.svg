@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract grayscale portrait placeholder</title>
+  <desc id="desc">A neutral grayscale composition intended to be replaced by the user's image.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c7c7c7"/>
+      <stop offset="0.48" stop-color="#8b8b8b"/>
+      <stop offset="1" stop-color="#292929"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <ellipse cx="930" cy="410" rx="330" ry="390" fill="#d4d4d4" opacity=".78" filter="url(#blur)"/>
+  <path d="M520 980c95-260 280-340 450-320 240 30 410 145 520 320Z" fill="#171717" opacity=".92"/>
+  <path d="M650 250c70-170 280-250 470-170 130 55 205 155 230 305-115-95-210-118-365-78-145 38-245 25-335-57Z" fill="#242424" opacity=".88" filter="url(#blur)"/>
+  <ellipse cx="825" cy="415" rx="62" ry="32" fill="#333" opacity=".56"/>
+  <ellipse cx="1080" cy="420" rx="68" ry="34" fill="#333" opacity=".56"/>
+  <path d="M900 590c95 58 190 55 278-9" fill="none" stroke="#444" stroke-width="23" stroke-linecap="round" opacity=".62"/>
+  <path d="M980 440c-25 68-35 110-6 150" fill="none" stroke="#666" stroke-width="20" stroke-linecap="round" opacity=".38"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 625" role="img" aria-labelledby="title">
+  <title id="title">Second artwork placeholder</title>
+  <rect width="800" height="625" fill="#d8d8d8"/>
+  <path d="M0 455c140-46 260-20 380 22 130 45 270 61 420 2v146H0Z" fill="#8d8d8d"/>
+  <path d="M394 92v360" stroke="#343434" stroke-width="14"/>
+  <path d="m395 104 188 253H395Z" fill="#f1f1f1" stroke="#666" stroke-width="6"/>
+  <path d="m382 164-122 200h122Z" fill="#777"/>
+  <path d="M245 454h322l-76 52H300Z" fill="#2e2e2e"/>
+  <text x="30" y="585" fill="#444" font-family="monospace" font-size="24">REPLACE IMAGE 02</text>
+</svg>
